@@ -1,18 +1,3 @@
-# React-Router-Portfolio
-Unit 3 React Router Portfolio Deliverable
-# React Router Portfolio Homework
-
-### Please fork and clone this repo and complete the steps outlined below: 
-
-1. Create a Skeleton App with correct organization of folders/pages/and components
-2. You need to have the following **Page** components: Login, SignUp, Profile, About, Skills, Contact Me
-3. Each component has to render the title (i.e. ```<h1>Login</h1>```), and there should be sample data rendered in all components (Login and Signup can be left as forms). All data in your Page components need to be stored in state. Use Functional components only. 
-4. You need to have a nav bar in App.js with all your links to each Page (Use the Link component from react-router-dom)
-5. Create apropriate routes for each page in App.js using the Router component from react-router-dom (i.e. for /login, /signup etc.)
-6. Please reference the React Router V6 lesson for help 
-
-<hr />
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
